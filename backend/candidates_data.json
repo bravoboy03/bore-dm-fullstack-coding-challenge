@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 30,
+        "experience_years": 5.5,
+        "linkedin_url": "https://www.linkedin.com/in/johndoe",
+        "availability": "Full-time"
+    },
+    {
+        "id": "2",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "age": 25,
+        "experience_years": 3.2,
+        "linkedin_url": "https://www.linkedin.com/in/janesmith",
+        "availability": "Part-time"
+    },
+    {
+        "id": "3",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "age": 28,
+        "experience_years": 4.8,
+        "linkedin_url": "https://www.linkedin.com/in/alicejohnson",
+        "availability": "Full-time"
+    },
+    {
+        "id": "4",
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "age": 35,
+        "experience_years": 7.0,
+        "linkedin_url": "https://www.linkedin.com/in/bobbrown",
+        "availability": "Contract"
+    },
+    {
+        "id": "5",
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "age": 27,
+        "experience_years": 4.0,
+        "linkedin_url": "https://www.linkedin.com/in/emilyjones",
+        "availability": "Part-time"
+    },
+    {
+        "id": "6",
+        "first_name": "Michael",
+        "last_name": "Lee",
+        "age": 32,
+        "experience_years": 6.5,
+        "linkedin_url": "https://www.linkedin.com/in/michaellee",
+        "availability": "Full-time"
+    },
+    {
+        "id": "7",
+        "first_name": "Emma",
+        "last_name": "Martinez",
+        "age": 29,
+        "experience_years": 5.0,
+        "linkedin_url": "https://www.linkedin.com/in/emmamartinez",
+        "availability": "Contract"
+    },
+    {
+        "id": "8",
+        "first_name": "William",
+        "last_name": "Garcia",
+        "age": 26,
+        "experience_years": 3.7,
+        "linkedin_url": "https://www.linkedin.com/in/williamgarcia",
+        "availability": "Full-time"
+    },
+    {
+        "id": "9",
+        "first_name": "Olivia",
+        "last_name": "Brown",
+        "age": 31,
+        "experience_years": 5.2,
+        "linkedin_url": "https://www.linkedin.com/in/oliviabrown",
+        "availability": "Part-time"
+    },
+    {
+        "id": "10",
+        "first_name": "James",
+        "last_name": "Taylor",
+        "age": 33,
+        "experience_years": 6.0,
+        "linkedin_url": "https://www.linkedin.com/in/jamestaylor",
+        "availability": "Full-time"
+    }
+]
